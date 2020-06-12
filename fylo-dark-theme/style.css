@@ -241,7 +241,7 @@ padding-top: 8%;
     border-radius: 10px;
     text-align: center;
     position: absolute;
-    bottom: -650px;
+    bottom: -610px;
     z-index: 0;
   }
 
@@ -290,19 +290,20 @@ padding-top: 8%;
     background-color: hsl(216, 53%, 9%);
     z-index: -1;
     position: absolute;
-    top: 3350px;
+    top: 3250px;
   }
 
   .footer-logo {
     width: 100%;
-    margin-top: 30%;
+    margin-top: 10%;
   }
 
   .footer-logo img {
     width: 30%;
     margin-left: 5%;
-    margin-top: 50%;
+    margin-top: 40%;
     margin-bottom: 10%;
+    padding-top: 30%;
   }
 
   .location {
@@ -414,23 +415,6 @@ padding-top: 8%;
     text-decoration: none;
     display: inline;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
