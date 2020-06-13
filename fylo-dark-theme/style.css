@@ -67,11 +67,11 @@
 
 
     .section-1 h1 {
-      width: 90%;
+      width: 80%;
       font-family: 'Raleway', sans-serif;
-      margin-left: 5%;
+      margin-left: 10%;
       font-weight: 600;
-      font-size: 1.5rem;
+      font-size: 1.6rem;
       line-height: 35px;
       padding-top: 15%;
     }
